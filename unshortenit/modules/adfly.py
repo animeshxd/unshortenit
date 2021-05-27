@@ -17,7 +17,8 @@ class AdfLy(UnshortenModule):
         'atominik.com',
         'tinyium.com',
         'microify.com',
-        'raboninco.com'
+        'raboninco.com',
+        'onizatop.net'
     ])
 
     def __init__(self, headers: dict = None, timeout: int = 30):
